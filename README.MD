@@ -1,5 +1,5 @@
 **SPACEBAR/Tap** - Jump
 <br>
-**A** - Go left
+**LEFT ARROW** - Go left
 <br>
-**D** - Go right
+**RIGHT ARROW** - Go right
